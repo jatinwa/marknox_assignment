@@ -83,7 +83,7 @@ export const projects = [
     title: "Health Navigator",
     des: "A cutting-edge healthcare web application built with Next.js and Appwrite, offering seamless patient management, real-time data synchronization, and secure medical record.",
     img: "./p2.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./fm.svg"],
     link: "https://healthnavigator.vercel.app/",
   },
   {
@@ -91,7 +91,7 @@ export const projects = [
     title: "Interactorium",
     des: "A social media platforms where people can make communities on the basis of different categories and share content with each other category wise.",
     img: "./p3.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg", "/next.svg"],
+    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./c.svg", "./next.svg"],
     link: "https://interactorium.vercel.app/",
   },
   {
@@ -99,7 +99,7 @@ export const projects = [
     title: "World Book",
     des: "A social media platforms where people can make communities on the basis of different categories and share content with each other category wise.",
     img: "./p4.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./re.svg"],
     link: "https://world-book.vercel.app",
   },
 ];
