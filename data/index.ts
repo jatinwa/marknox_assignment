@@ -75,7 +75,7 @@ export const projects = [
     title: "WeaveChat",
     des: "A modern web application similar to threads built with React and Next.js, offering real-time conversations and seamless social networking features.",
     img: "./p1.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/ts.svg"],
+    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./next.svg", "./ts.svg"],
     link: "https://threads-clone-q2vaavsbt-jatinwatts8gmailcoms-projects.vercel.app/",
   },
   {
